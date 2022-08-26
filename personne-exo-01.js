@@ -1,6 +1,0 @@
-class Stagiaire
-{
-    prenom;
-    nom;
-
-}
